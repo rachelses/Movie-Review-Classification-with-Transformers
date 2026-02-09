@@ -1,0 +1,15 @@
+model: tweaked_warmup
+run_name: tweaked_warmup
+
+lr: 0.0003
+weight_decay: 0.0001
+dropout: 0.1
+
+d_model: 256
+n_heads: 8
+n_layers: 4
+d_ff: 1024
+
+# warmup (둘 중 하나 사용)
+warmup_steps: 200
+# warmup_ratio: 0.1

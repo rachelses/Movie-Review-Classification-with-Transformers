@@ -1,0 +1,19 @@
+processed_dir: data/processed
+out_root: outputs/runs
+seed: 42
+
+epochs: 6
+batch_size: 64
+num_workers: 0
+grad_clip: 1.0
+
+# default optimizer params
+lr: 0.0003
+weight_decay: 0.0001
+
+# transformer shared default
+dropout: 0.1
+d_model: 256
+n_heads: 8
+n_layers: 4
+d_ff: 1024

@@ -1,0 +1,12 @@
+model: rnn
+run_name: rnn_lstm
+
+lr: 0.002
+weight_decay: 0.0
+dropout: 0.2
+
+rnn_type: lstm
+embed_dim: 128
+hidden_size: 256
+num_layers: 1
+bidirectional: true

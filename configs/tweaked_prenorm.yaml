@@ -1,0 +1,11 @@
+model: tweaked_prenorm
+run_name: tweaked_prenorm
+
+lr: 0.0003
+weight_decay: 0.0001
+dropout: 0.1
+
+d_model: 256
+n_heads: 8
+n_layers: 4
+d_ff: 1024

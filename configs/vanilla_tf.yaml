@@ -1,0 +1,11 @@
+model: vanilla
+run_name: vanilla_tf
+
+lr: 0.0003
+weight_decay: 0.0001
+dropout: 0.1
+
+d_model: 256
+n_heads: 8
+n_layers: 4
+d_ff: 1024
