@@ -1,0 +1,6 @@
+{
+  "best_val_acc": 0.8448,
+  "test_loss": 0.39012223838806154,
+  "test_acc": 0.83772,
+  "best_state_path": "outputs/runs/tweaked_warmup_20260131_154433/best_model.pt"
+}
