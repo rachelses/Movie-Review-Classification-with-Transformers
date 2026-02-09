@@ -1,0 +1,6 @@
+{
+  "best_val_acc": 0.854,
+  "test_loss": 0.40580077671051024,
+  "test_acc": 0.83872,
+  "best_state_path": "outputs/runs/vanilla_tf_20260131_133546/best_model.pt"
+}
