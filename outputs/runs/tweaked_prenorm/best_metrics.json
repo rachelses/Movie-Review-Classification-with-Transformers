@@ -1,0 +1,6 @@
+{
+  "best_val_acc": 0.8584,
+  "test_loss": 0.3827622554969788,
+  "test_acc": 0.84416,
+  "best_state_path": "outputs/runs/tweaked_prenorm_20260131_151138/best_model.pt"
+}
